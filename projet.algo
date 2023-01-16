@@ -1,0 +1,9 @@
+ALGORITHM TRI SIMPLE
+VAR
+    tab: arry_of_integer;
+    mp,x,y:integer;
+    i,x,y,mp:integer;
+BEGIN
+    mp:=x;
+   
+END
